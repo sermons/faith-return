@@ -28,8 +28,9 @@ and eat your flesh like fire.
 You have hoarded wealth in the last days.
 
 [4](# "ref")
-Look! The wages you failed to pay the workers <br>
-who mowed your fields are crying out against you.
+Look! The wages you failed to pay <br>
+the workers who mowed your fields <br>
+are crying out against you.
 
 The cries of the harvesters have reached <br>
 the ears of the Lord Almighty.
@@ -44,7 +45,8 @@ You have fattened yourselves <br>
 in the day of slaughter.
 
 [6](# "ref")
-You have condemned and murdered the innocent one, <br>
+You have condemned and murdered <br>
+the innocent one, <br>
 who was not opposing you.
 
 [James 5:5-6 (NIV) (p.3/6)](# "ref")
@@ -56,38 +58,42 @@ until the Lord’s coming.
 
 See how the farmer waits for the land <br>
 to yield its valuable crop, <br>
-patiently waiting for the autumn and spring rains.
+patiently waiting <br>
+for the autumn and spring rains.
 
-[James 5:7 (NIV) (p.4/6)](# "ref")
-
----
 [8](# "ref")
 You too, be patient and stand firm, <br>
 because the Lord’s coming is near.
 
+[James 5:7-8 (NIV) (p.4/6)](# "ref")
+
+---
 [9](# "ref")
 Don’t grumble against one another, <br>
 brothers and sisters, or you will be judged.
 
 The Judge is standing at the door!
 
-[James 5:8-9 (NIV) (p.5/6)](# "ref")
-
----
 [10](# "ref")
 Brothers and sisters, as an example <br>
 of patience in the face of suffering, <br>
-take the prophets who spoke in the name of the Lord.
+take the prophets who spoke <br>
+in the name of the Lord.
 
+[James 5:9-10 (NIV) (p.5/6)](# "ref")
+
+---
 [11](# "ref")
 As you know, we count as blessed <br>
 those who have persevered.
 
 You have heard of Job’s perseverance <br>
-and have seen what the Lord finally brought about. <br>
+and have seen what the Lord <br>
+finally brought about.
+
 The Lord is full of compassion and mercy.
 
-[James 5:10-11 (NIV) (p.6/6)](# "ref")
+[James 5:11 (NIV) (p.6/6)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
