@@ -22,6 +22,8 @@ Your gold and silver are corroded. <br>
 Their corrosion will testify against you <br>
 and eat your flesh like fire.
 
+[James 5:1-3 (NIV) (p.1/6)](# "ref")
+
 ---
 You have hoarded wealth in the last days.
 
@@ -31,6 +33,8 @@ who mowed your fields are crying out against you.
 
 The cries of the harvesters have reached <br>
 the ears of the Lord Almighty.
+
+[James 5:3-4 (NIV) (p.2/6)](# "ref")
 
 ---
 [5](# "ref")
@@ -43,6 +47,8 @@ in the day of slaughter.
 You have condemned and murdered the innocent one, <br>
 who was not opposing you.
 
+[James 5:5-6 (NIV) (p.3/6)](# "ref")
+
 ---
 [7](# "ref")
 Be patient, then, brothers and sisters, <br>
@@ -51,6 +57,8 @@ until the Lord’s coming.
 See how the farmer waits for the land <br>
 to yield its valuable crop, <br>
 patiently waiting for the autumn and spring rains.
+
+[James 5:7 (NIV) (p.4/6)](# "ref")
 
 ---
 [8](# "ref")
@@ -62,6 +70,8 @@ Don’t grumble against one another, <br>
 brothers and sisters, or you will be judged.
 
 The Judge is standing at the door!
+
+[James 5:8-9 (NIV) (p.5/6)](# "ref")
 
 ---
 [10](# "ref")
@@ -76,6 +86,8 @@ those who have persevered.
 You have heard of Job’s perseverance <br>
 and have seen what the Lord finally brought about. <br>
 The Lord is full of compassion and mercy.
+
+[James 5:10-11 (NIV) (p.6/6)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
