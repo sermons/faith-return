@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> data-state="title" -->
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
 # Faith that Looks <br> to Christ's Return
 ## James 5:1-11
 
@@ -37,6 +37,14 @@ and eat your flesh like fire.
 
 [James 5:1-3 (NIV) (p.1/6)](# "ref")
 
+>>>
++ rich: 1 rejoice low, 2: favouritism, 4: business
++ misery (sorrow) is **coming**
++ **money**: useless, turn against you
+  + master vs mastered by
++ poison: Wesley quote: cast it away
++ feel smart: e.g. Save $200 in car: CV boot
+
 ---
 You have hoarded wealth in the last days.
 
@@ -49,6 +57,16 @@ The cries of the harvesters have reached <br>
 the ears of the Lord Almighty.
 
 [James 5:3-4 (NIV) (p.2/6)](# "ref")
+
+>>>
++ treasure in **last days**:
+  + parable barn
+  + purpose of saving money? 
++ wages: not your money anymore
+  + was held back (strength) by you
++ believe money == power:
+  + but higher judge: Sabaoth
+  + judgment **coming**
 
 ---
 [5](# "ref")
@@ -63,6 +81,12 @@ the innocent one, <br>
 who was not opposing you.
 
 [James 5:5-6 (NIV) (p.3/6)](# "ref")
+
+>>>
++ you: luxuriate, indulge, feed
+  + condemn (against-righteous), murder
++ to preserve std of living
++ **day** of slaughter
 
 ---
 [7](# "ref")
@@ -80,6 +104,15 @@ because the Lord’s coming is near.
 
 [James 5:7-8 (NIV) (p.4/6)](# "ref")
 
+>>>
++ autumn (early) rain: for growth
+  + spring (late) rain: for planting
++ active waiting: work hard,
+  + relying on God's providence
+  + trusting (assuming) his promises
++ stand firm (Eph6)
++ grumble
+
 ---
 [9](# "ref")
 Don’t grumble against one another, <br>
@@ -95,6 +128,10 @@ in the name of the Lord.
 
 [James 5:9-10 (NIV) (p.5/6)](# "ref")
 
+>>>
++ prophets: Jeremiah?
++ Hab, how long? 
+
 ---
 [11](# "ref")
 As you know, we count as blessed <br>
@@ -107,6 +144,11 @@ finally brought about.
 The Lord is full of compassion and mercy.
 
 [James 5:11 (NIV) (p.6/6)](# "ref")
+
+>>>
++ persevere
++ job
++ compassion + mercy
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
