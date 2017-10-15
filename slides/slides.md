@@ -12,13 +12,13 @@
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
 ## James: **Keep the Faith**
 + Stands the **Test** <span class="ref">(1:2-12)</span>
-+ Demands a **Change** of Heart <span class="ref">(1:19-25)</span>
+  + Demands **Change** of Heart <span class="ref">(1:19-25)</span>
 + Loves **Impartially** <span class="ref">(2:5-9)</span>
-+ **Acts** <span class="ref">(2:15-24)</span>
+  + **Acts** <span class="ref">(2:15-24)</span>
 + Tames the **Tongue** <span class="ref">(3:6-10)</span>
-+ Demonstrates **Wisdom** <span class="ref">(3:13-18)</span>
+  + Demonstrates **Wisdom** <span class="ref">(3:13-18)</span>
 + **Mourns** Sin <span class="ref">(4:4-10)</span>
-+ Is **Humble** <span class="ref">(4:11-16)</span>
+  + Is **Humble** <span class="ref">(4:11-16)</span>
 + Looks to Christ's **Return** [(5:1-11)](# "ref")
 
 ---
@@ -129,8 +129,9 @@ in the name of the Lord.
 [James 5:9-10 (NIV) (p.5/6)](# "ref")
 
 >>>
-+ prophets: Jeremiah?
-+ Hab, how long? 
++ prophets: Is6:11 seeing but not perceiving
+  + Jeremiah?
++ Hab 1:2 how long
 
 ---
 [11](# "ref")
