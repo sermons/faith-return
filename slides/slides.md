@@ -10,16 +10,16 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
-## James: **Keep the Faith**
-+ Stands the **Test** <span class="ref">(1:2-12)</span>
-  + Demands **Change** of Heart <span class="ref">(1:19-25)</span>
-+ Loves **Impartially** <span class="ref">(2:5-9)</span>
-  + **Acts** <span class="ref">(2:15-24)</span>
-+ Tames the **Tongue** <span class="ref">(3:6-10)</span>
-  + Demonstrates **Wisdom** <span class="ref">(3:13-18)</span>
-+ **Mourns** Sin <span class="ref">(4:4-10)</span>
-  + Is **Humble** <span class="ref">(4:11-16)</span>
-+ Looks to Christ's **Return** [(5:1-11)](# "ref")
+## [James:](# "ref") Keep the **Faith**
++ [(1a):](# "ref") Stands the **Test**
+  + [(1b):](# "ref") Demands a **Change** of Heart
++ [(2a):](# "ref") Loves **Impartially**
+  + [(2b):](# "ref") **Acts**
++ [(3a):](# "ref") Tames the **Tongue**
+  + [(3b):](# "ref") Demonstrates **Wisdom**
++ [(4a):](# "ref") **Mourns** Sin
+  + [(4b):](# "ref") Is **Humble**
++ [(5a):](# "ref") Looks to Christ's **Return**
 
 ---
 [1](# "ref")
@@ -61,7 +61,7 @@ the ears of the Lord Almighty.
 >>>
 + treasure in **last days**:
   + parable barn
-  + purpose of saving money? 
+  + purpose of saving money?
 + wages: not your money anymore
   + was held back (strength) by you
 + believe money == power:
