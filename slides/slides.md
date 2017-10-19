@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# Am I **ready** for Christ's return? 
 
 [###](#/outline "secret")
 
@@ -154,9 +154,14 @@ The Lord is full of compassion and mercy.
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
 ## Looking to Christ's Return [(Jam5a)](# "ref")
-1. **One**
-1. **Two**
-1. **Three**
+1. The Disadvantage of **Wealth**
+  1. *Rusty* Gold [(v1-3)](# "ref")
+  1. *Crying* Wages [(v4)](# "ref")
+  1. Me, a *Murderer*? [(v5-6)](# "ref")
+1. The Promise of **Patience**
+  1. A *Farmer's* Work [(v7-8)](# "ref")
+  1. No *Grumbling* [(v9)](# "ref")
+  1. Job's *Vindication* [(v10-11)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
