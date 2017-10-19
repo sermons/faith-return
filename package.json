@@ -8,7 +8,7 @@
     "talks",
     "ppt"
   ],
-  "version": "1.6.5",
+  "version": "1.6.6",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "faith-return.seanho.com",
@@ -94,7 +94,7 @@
     "grunt-git": "^1.0.7",
     "qrcode": "^0.9.0",
     "inliner": "^1.12.5",
-    "decktape": "^2.4.2"
+    "decktape": "^2.4.3"
   },
   "scripts": {
     "postinstall": "grunt install",
