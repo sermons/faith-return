@@ -111,14 +111,14 @@ The Lord is full of compassion and mercy.
 ---
 <!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> id="outline" -->
 ## Looking to Christ's Return
-1. The Disadvantage of **Wealth**
-  1. Money *Rusts* [(v1-3)](# "ref")
-  1. Wages *Cry Out* [(v4)](# "ref")
-  1. Standard of Living Has a *Cost* [(v5-6)](# "ref")
-1. The Promise of **Patience**
+1. The Disadvantage of *Wealth*
+  1. Money **Rusts** [(v1-3)](# "ref")
+  1. Wages **Cry Out** [(v4)](# "ref")
+  1. Standard of Living Has a **Cost** [(v5-6)](# "ref")
+1. The Promise of *Patience*
   1. **Active** Waiting [(v7-8)](# "ref")
-  1. No *Grumbling* [(v9)](# "ref")
-  1. God's *Compassion* [(v10-11)](# "ref")
+  1. No **Grumbling** [(v9)](# "ref")
+  1. Example of the **Prophets** [(v10-11)](# "ref")
 
 ---
 Now listen, you **rich people**, weep and wail <br>
@@ -325,7 +325,7 @@ because the Lord’s coming is near.
 
 ---
 <!-- .slide: data-background="white" -->
-# What **work** has God given me in **preparation** for His return?
+# What **work** <br> has God given me in **preparation** <br> for His return?
 
 ---
 ## outline
@@ -347,7 +347,8 @@ brothers and sisters, or you will be judged.
 Do not **slander** one another.
 
 Anyone who **speaks against** a brother or sister <br/>
-or **judges** them speaks against the **law** and judges it.
+or **judges** them <br>
+speaks against the **law** and judges it.
 
 [James 4:11 (NIV)](# "ref")
 
