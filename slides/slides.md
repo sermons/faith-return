@@ -50,16 +50,6 @@ the ears of the Lord Almighty.
 
 [James 5:3-4 (NIV) (p.2/6)](# "ref")
 
->>>
-+ treasure in **last days**:
-  + parable barn
-  + purpose of saving money?
-+ wages: not your money anymore
-  + was held back (strength) by you
-+ believe money == power:
-  + but higher judge: Sabaoth
-  + judgment **coming**
-
 ---
 [5](# "ref")
 You have lived on earth <br>
@@ -73,12 +63,6 @@ the innocent one, <br>
 who was not opposing you.
 
 [James 5:5-6 (NIV) (p.3/6)](# "ref")
-
->>>
-+ you: luxuriate, indulge, feed
-  + condemn (against-righteous), murder
-+ to preserve std of living
-+ **day** of slaughter
 
 ---
 [7](# "ref")
@@ -189,20 +173,29 @@ Is it not the **rich** who are **exploiting** you? [(2:6)](# "ref")
 
 ---
 Your wealth has **rotted**, <br>
-and moths have eaten your clothes.
+and **moths** have eaten your clothes.
 
 [3](# "ref")
+You have **hoarded** wealth in the **last days**.
+
+[James 5:2,3 (NIV)](# "ref")
+
+>>>
++ **rotted**: useless
++ hoarded: **treasured up** (i.e., to self)
++ last days: assume **future** same as **past**
++ feel **smart**: e.g. Save $200 in car: CV boot
+
+---
 Your gold and silver are **corroded**. <br>
 Their corrosion will **testify** against you <br>
 and **eat** your flesh like fire.
 
-[James 5:2-3](# "ref")
+[James 5:3 (NIV)](# "ref")
 
 >>>
-+ **rotted**: useless
-+ turn against you
++ testify: **turn** against you
   + master vs mastered by
-+ feel **smart**: e.g. Save $200 in car: CV boot
 + **corroded**: poison
 
 ---
@@ -238,8 +231,56 @@ are **crying out** against you.
 [James 5:4 (NIV)](# "ref")
 
 >>>
-+ wages: not your money anymore
-  + was held back (strength) by you
++ **wages**: not your money anymore
+  + was **held back** (strength) by you
+
+---
+“You have **plenty** of grain laid up for many **years**. <br>
+Take life **easy**; eat, drink and be **merry**.”
+
+[20](# "ref")
+But God said to him, “You **fool**!
+This very night your **life** will be demanded from you. <br>
+Then **who** will get what you have prepared for yourself?”
+
+[Luke 12:19-20 (NIV)](# "ref")
+
+>>>
++ **purpose** of saving money?
+
+---
+The **cries** of the harvesters have reached <br>
+the ears of the **Lord Almighty**.
+
+[James 5:4 (NIV)](# "ref")
+
+>>>
++ believe money == power:
+  + but higher judge: Sabaoth
+  + judgment **coming**
+
+---
+## outline
+
+---
+[5](# "ref")
+You have lived on earth <br>
+in luxury and self-indulgence. <br>
+You have fattened yourselves <br>
+in the day of slaughter.
+
+[6](# "ref")
+You have condemned and murdered <br>
+the innocent one, <br>
+who was not opposing you.
+
+[James 5:5-6 (NIV)](# "ref")
+
+>>>
++ you: luxuriate, indulge, feed
+  + condemn (against-righteous), murder
++ to preserve std of living
++ **day** of slaughter
 
 ---
 <!-- .slide: data-background="white" -->
