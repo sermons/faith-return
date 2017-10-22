@@ -37,14 +37,6 @@ and eat your flesh like fire.
 
 [James 5:1-3 (NIV) (p.1/6)](# "ref")
 
->>>
-+ rich: 1 rejoice low, 2: favouritism, 4: business
-+ misery (sorrow) is **coming**
-+ **money**: useless, turn against you
-  + master vs mastered by
-+ poison: Wesley quote: cast it away
-+ feel smart: e.g. Save $200 in car: CV boot
-
 ---
 You have hoarded wealth in the last days.
 
@@ -169,15 +161,85 @@ because of the **misery** that is coming on you.
 
 [James 5:1 (NIV)](# "ref")
 
+>>>
++ audience is **Christians**! ("brothers")
+  + **rich**: abundance, no lack
+  + **we** all are the 1% wealthy
++ not to dwell in **guilt**
+  + still **hope**: what do I **do**?
++ &rArr; **mourn**: our **dependence** on wealth
+  + has **crippled** us and
+  + **blinded** us from what is important
++ not the **only** time James addresses **rich**:
+
 ---
 ## The Disadvantage of Wealth
 The **rich** should take pride in their **humiliation**, <br>
 since they will pass away like a **wild flower**. [(1:10)](# "ref")
 
-Is it not the **rich** who are **exploiting** you? [(2:6)](# "ref")
-
 "We will carry on business and **make money**" -- <br>
 What is your **life**? You are a **mist** ... [(4:13-14)](# "ref")
+
+Is it not the **rich** who are **exploiting** you? [(2:6)](# "ref")
+
+>>>
++ riches are **fleeting**
++ safety of riches causes us to grow **proud**
++ attachment to riches &rArr; **oppression** of others
+
+---
+Your wealth has **rotted**, <br>
+and moths have eaten your clothes.
+
+[3](# "ref")
+Your gold and silver are **corroded**. <br>
+Their corrosion will **testify** against you <br>
+and **eat** your flesh like fire.
+
+[James 5:2-3](# "ref")
+
+>>>
++ **rotted**: useless
++ turn against you
+  + master vs mastered by
++ feel **smart**: e.g. Save $200 in car: CV boot
++ **corroded**: poison
+
+---
+Money never **stays** with me. <br>
+It would **burn** me if it did.
+
+I **throw** it out of my hands as soon as possible, <br>
+lest it should find its way into my **heart**.
+
+[John Wesley, letter to Patty Hall, 1768](# "ref")
+
+**Gain** all you can. **Save** all you can. <br>
+**Give** all you can.
+
+[John Wesley, "The Use of Money", 1744](# "ref")
+
+>>>
++ friend left &pound;1000 in will
+  + promptly gave to **poor**
+  + friend's **sister** applied for some
+  + should have asked me before it **flew** away
++ not that work/wages/income are **evil**
+  + but not to be **hoarded** for ourselves
+
+---
+## outline
+
+---
+Look! The **wages** you failed to pay <br>
+the **workers** who mowed your fields <br>
+are **crying out** against you.
+
+[James 5:4 (NIV)](# "ref")
+
+>>>
++ wages: not your money anymore
+  + was held back (strength) by you
 
 ---
 <!-- .slide: data-background="white" -->
