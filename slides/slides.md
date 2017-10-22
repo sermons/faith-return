@@ -80,15 +80,6 @@ because the Lord’s coming is near.
 
 [James 5:7-8 (NIV) (p.4/6)](# "ref")
 
->>>
-+ autumn (early) rain: for growth
-  + spring (late) rain: for planting
-+ active waiting: work hard,
-  + relying on God's providence
-  + trusting (assuming) his promises
-+ stand firm (Eph6)
-+ grumble
-
 ---
 [9](# "ref")
 Don’t grumble against one another, <br>
@@ -104,11 +95,6 @@ in the name of the Lord.
 
 [James 5:9-10 (NIV) (p.5/6)](# "ref")
 
->>>
-+ prophets: Is6:11 seeing but not perceiving
-  + Jeremiah?
-+ Hab 1:2 how long
-
 ---
 [11](# "ref")
 As you know, we count as blessed <br>
@@ -121,11 +107,6 @@ finally brought about.
 The Lord is full of compassion and mercy.
 
 [James 5:11 (NIV) (p.6/6)](# "ref")
-
->>>
-+ persevere
-+ job
-+ compassion + mercy
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
@@ -265,12 +246,12 @@ the ears of the **Lord Almighty**.
 ---
 [5](# "ref")
 You have lived on earth <br>
-in luxury and self-indulgence. <br>
-You have fattened yourselves <br>
+in **luxury** and **self-indulgence**. <br>
+You have **fattened** yourselves <br>
 in the day of slaughter.
 
 [6](# "ref")
-You have condemned and murdered <br>
+You have **condemned** and **murdered** <br>
 the innocent one, <br>
 who was not opposing you.
 
@@ -290,19 +271,83 @@ who was not opposing you.
 ## outline
 
 ---
-<!-- .slide: data-background="white" -->
-# Q2
+See how the **farmer** waits for the land <br>
+to yield its valuable crop, <br>
+patiently **waiting** <br>
+for the autumn and spring **rains**.
+
+[8](# "ref")
+You too, be **patient** and **stand firm**, <br>
+because the Lord’s coming is near.
+
+[James 5:7-8 (NIV)](# "ref")
+
+>>>
++ autumn (early) rain: for growth
+  + spring (late) rain: for planting
++ active waiting: work hard,
+  + relying on God's providence
+  + trusting (assuming) his promises
++ stand firm (Eph6)
 
 ---
 ## outline
 
 ---
+Don’t **grumble** against one another, <br>
+brothers and sisters, or you will be **judged**.
+
+The Judge is standing at the **door**!
+
+[James 5:9 (NIV)](# "ref")
+
+---
+## outline
+
+---
+Brothers and sisters, as an example <br>
+of **patience** in the face of **suffering**, <br>
+take the **prophets** who spoke <br>
+in the name of the Lord.
+
+[James 5:10 (NIV)](# "ref")
+
+>>>
++ prophets: Is6:11 seeing but not perceiving
+  + Jeremiah?
++ Hab 1:2 how long
+
+---
+You have heard of **Job’s** perseverance <br>
+and have seen what the **Lord** <br>
+finally brought about.
+
+The Lord is full of **compassion** and **mercy**.
+
+[James 5:11 (NIV)](# "ref")
+
+>>>
++ persevere
+
+---
 <!-- .slide: data-background="white" -->
-# Q3
+# Q2
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
-## closing
+Be patient, then, brothers and sisters, <br>
+until the Lord’s coming.
+
+See how the farmer waits for the land <br>
+to yield its valuable crop, <br>
+patiently waiting <br>
+for the autumn and spring rains.
+
+[8](# "ref")
+You too, be patient and stand firm, <br>
+because the Lord’s coming is near.
+
+[James 5:7-8 (NIV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
