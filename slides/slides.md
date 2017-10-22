@@ -210,7 +210,16 @@ lest it should find its way into my **heart**.<br>
 # Have I **trusted** in wealth as my **safety net**?
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
+## Looking to Christ's Return
+1. The Disadvantage of *Wealth*
+  1. Money Rusts [(v1-3)](# "ref")
+  1. **Wages Cry Out** [(v4)](# "ref")
+  1. Standard of Living Has a Cost [(v5-6)](# "ref")
+1. The Promise of *Patience*
+  1. Active Waiting [(v7-8)](# "ref")
+  1. No Grumbling [(v9)](# "ref")
+  1. Example of the Prophets [(v10-11)](# "ref")
 
 ---
 <!-- .slide: <%= bg("negativespace-money.jpg") %> -->
@@ -260,7 +269,16 @@ the ears of the **Lord Almighty**.
 # What is the **purpose** of **saving** money?
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
+## Looking to Christ's Return
+1. The Disadvantage of *Wealth*
+  1. Money Rusts [(v1-3)](# "ref")
+  1. Wages Cry Out [(v4)](# "ref")
+  1. **Standard of Living Has a Cost** [(v5-6)](# "ref")
+1. The Promise of *Patience*
+  1. Active Waiting [(v7-8)](# "ref")
+  1. No Grumbling [(v9)](# "ref")
+  1. Example of the Prophets [(v10-11)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
@@ -294,7 +312,16 @@ who was not **opposing** you.
 # Whom have I **harmed** to preserve my **standard** of living?
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
+## Looking to Christ's Return
+1. The Disadvantage of *Wealth*
+  1. Money Rusts [(v1-3)](# "ref")
+  1. Wages Cry Out [(v4)](# "ref")
+  1. Standard of Living Has a Cost [(v5-6)](# "ref")
+1. The Promise of *Patience*
+  1. **Active Waiting** [(v7-8)](# "ref")
+  1. No Grumbling [(v9)](# "ref")
+  1. Example of the Prophets [(v10-11)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-HNx4QLRgy2k-rain_plant.jpg") %> -->
@@ -328,7 +355,16 @@ because the Lord’s coming is near.
 # What **work** <br> has God given me in **preparation** <br> for His return?
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
+## Looking to Christ's Return
+1. The Disadvantage of *Wealth*
+  1. Money Rusts [(v1-3)](# "ref")
+  1. Wages Cry Out [(v4)](# "ref")
+  1. Standard of Living Has a Cost [(v5-6)](# "ref")
+1. The Promise of *Patience*
+  1. Active Waiting [(v7-8)](# "ref")
+  1. **No Grumbling** [(v9)](# "ref")
+  1. Example of the Prophets [(v10-11)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
@@ -369,7 +405,16 @@ The Judge is standing at the **door**!
 or frustration
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
+## Looking to Christ's Return
+1. The Disadvantage of *Wealth*
+  1. Money Rusts [(v1-3)](# "ref")
+  1. Wages Cry Out [(v4)](# "ref")
+  1. Standard of Living Has a Cost [(v5-6)](# "ref")
+1. The Promise of *Patience*
+  1. Active Waiting [(v7-8)](# "ref")
+  1. No Grumbling [(v9)](# "ref")
+  1. **Example of the Prophets** [(v10-11)](# "ref")
 
 ---
 <!-- .slide: <%= bg("Riviere-Daniels_Answer_to_the_King.jpg") %> -->
