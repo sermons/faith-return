@@ -116,9 +116,9 @@ The Lord is full of compassion and mercy.
   1. Wages *Cry Out* [(v4)](# "ref")
   1. Standard of Living Has a *Cost* [(v5-6)](# "ref")
 1. The Promise of **Patience**
-  1. A *Farmer's* Work [(v7-8)](# "ref")
+  1. **Active** Waiting [(v7-8)](# "ref")
   1. No *Grumbling* [(v9)](# "ref")
-  1. Job's *Vindication* [(v10-11)](# "ref")
+  1. God's *Compassion* [(v10-11)](# "ref")
 
 ---
 Now listen, you **rich people**, weep and wail <br>
