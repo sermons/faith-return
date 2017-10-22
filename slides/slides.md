@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I **ready** for Christ's return? 
+# Am I **ready** for Christ's return?
 
 [###](#/outline "secret")
 
@@ -157,11 +157,27 @@ The Lord is full of compassion and mercy.
 1. The Disadvantage of **Wealth**
   1. *Rusty* Gold [(v1-3)](# "ref")
   1. *Crying* Wages [(v4)](# "ref")
-  1. Me, a *Murderer*? [(v5-6)](# "ref")
+  1. *Cost* of Living [(v5-6)](# "ref")
 1. The Promise of **Patience**
   1. A *Farmer's* Work [(v7-8)](# "ref")
   1. No *Grumbling* [(v9)](# "ref")
   1. Job's *Vindication* [(v10-11)](# "ref")
+
+---
+Now listen, you **rich people**, weep and wail <br>
+because of the **misery** that is coming on you.
+
+[James 5:1 (NIV)](# "ref")
+
+---
+## The Disadvantage of Wealth
+The **rich** should take pride in their **humiliation**, <br>
+since they will pass away like a **wild flower**. [(1:10)](# "ref")
+
+Is it not the **rich** who are **exploiting** you? [(2:6)](# "ref")
+
+"We will carry on business and **make money**" -- <br>
+What is your **life**? You are a **mist** ... [(4:13-14)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
