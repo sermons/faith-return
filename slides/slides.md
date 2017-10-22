@@ -180,6 +180,7 @@ and **eat** your flesh like fire.
 + **corroded**: poison
 
 ---
+<!-- .slide: <%= bg("Wesley_Open_Air_Preaching.jpg") %> -->
 Money never **stays** with me. <br>
 It would **burn** me if it did.
 
@@ -190,6 +191,8 @@ lest it should find its way into my **heart**.<br>
 **Gain** all you can. **Save** all you can. <br>
 **Give** all you can.<br>
 [John Wesley, "The Use of Money", 1744](# "ref")
+
+[Wellcome Trust](# "caption")
 
 >>>
 + friend left &pound;1000 in will
@@ -299,6 +302,21 @@ because the Lord’s coming is near.
 
 ---
 Don’t **grumble** against one another, <br>
+brothers and sisters, or you will be judged.
+
+[James 5:9 (NIV)](# "ref")
+
+---
+<!-- .slide: <%= bg("stocksnap-CB8PFQR6E9-finger.jpg") %> -->
+Do not **slander** one another.
+
+Anyone who **speaks against** a brother or sister <br/>
+or **judges** them speaks against the **law** and judges it.
+
+[James 4:11 (NIV)](# "ref")
+
+---
+Don’t *grumble* against one another, <br>
 brothers and sisters, or you will be **judged**.
 
 The Judge is standing at the **door**!
