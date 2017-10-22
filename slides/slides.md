@@ -340,6 +340,15 @@ in the name of the Lord.
 + Hab 1:2 how long
 
 ---
+**How long**, Lord, must I call for **help**, <br>
+but you do not **listen**?
+
+Or cry out to you, “**Violence!**” <br>
+but you do not **save**?
+
+[Habakkuk 1:2 (NIV)](# "ref")
+
+---
 You have heard of **Job’s** perseverance <br>
 and have seen what the **Lord** <br>
 finally brought about.
@@ -350,6 +359,19 @@ The Lord is full of **compassion** and **mercy**.
 
 >>>
 + persevere
+
+---
+At this, Job got up and <br>
+**tore** his robe and **shaved** his head. <br>
+Then he fell to the ground in **worship** and said:
+
+“**Naked** I came from my mother’s **womb**,<br>
+and naked I will **depart**.
+
+The Lord **gave** and the Lord has taken **away**;<br>
+may the name of the Lord be **praised**.”
+
+[Job 1:20-21 (NIV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
