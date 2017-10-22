@@ -110,11 +110,11 @@ The Lord is full of compassion and mercy.
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
-## Looking to Christ's Return [(Jam5a)](# "ref")
+## Looking to Christ's Return
 1. The Disadvantage of **Wealth**
-  1. *Rusty* Gold [(v1-3)](# "ref")
-  1. *Crying* Wages [(v4)](# "ref")
-  1. *Cost* of Living [(v5-6)](# "ref")
+  1. Money *Rusts* [(v1-3)](# "ref")
+  1. Wages *Cry Out* [(v4)](# "ref")
+  1. Standard of Living Has a *Cost* [(v5-6)](# "ref")
 1. The Promise of **Patience**
   1. A *Farmer's* Work [(v7-8)](# "ref")
   1. No *Grumbling* [(v9)](# "ref")
@@ -184,13 +184,11 @@ Money never **stays** with me. <br>
 It would **burn** me if it did.
 
 I **throw** it out of my hands as soon as possible, <br>
-lest it should find its way into my **heart**.
-
+lest it should find its way into my **heart**.<br>
 [John Wesley, letter to Patty Hall, 1768](# "ref")
 
 **Gain** all you can. **Save** all you can. <br>
-**Give** all you can.
-
+**Give** all you can.<br>
 [John Wesley, "The Use of Money", 1744](# "ref")
 
 >>>
@@ -216,13 +214,17 @@ are **crying out** against you.
   + was **held back** (strength) by you
 
 ---
-“You have **plenty** of grain laid up for many **years**. <br>
+“You have **plenty** of grain <br>
+laid up for many **years**. <br>
 Take life **easy**; eat, drink and be **merry**.”
 
 [20](# "ref")
-But God said to him, “You **fool**!
-This very night your **life** will be demanded from you. <br>
-Then **who** will get what you have prepared for yourself?”
+But God said to him, “You **fool**!<br>
+This very night your **life** <br>
+will be demanded from you.
+
+Then **who** will get <br>
+what you have prepared for yourself?”
 
 [Luke 12:19-20 (NIV)](# "ref")
 
@@ -260,6 +262,7 @@ who was not opposing you.
 >>>
 + you: luxuriate, indulge, feed
   + condemn (against-righteous), murder
+  + fat heart
 + to preserve std of living
 + **day** of slaughter
 
@@ -288,7 +291,8 @@ because the Lord’s coming is near.
 + active waiting: work hard,
   + relying on God's providence
   + trusting (assuming) his promises
-+ stand firm (Eph6)
++ stand firm: strengthen hearts
+  + Eph6?
 
 ---
 ## outline
