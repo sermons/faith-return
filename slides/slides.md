@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> id="title" -->
 # Faith that Looks <br> to Christ's Return
 ## James 5:1-11
 
@@ -109,7 +109,7 @@ The Lord is full of compassion and mercy.
 [James 5:11 (NIV) (p.6/6)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> id="outline" -->
 ## Looking to Christ's Return
 1. The Disadvantage of **Wealth**
   1. Money *Rusts* [(v1-3)](# "ref")
@@ -378,7 +378,7 @@ may the name of the Lord be **praised**.”
 # Q2
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
 Be patient, then, brothers and sisters, <br>
 until the Lord’s coming.
 
@@ -394,4 +394,4 @@ because the Lord’s coming is near.
 [James 5:7-8 (NIV)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> class="empty" -->
