@@ -362,7 +362,10 @@ The Judge is standing at the **door**!
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I **grumbled** against the family of God?
+# Have I **sighed** in **resentment** at a child of God?
+
+>>>
+or frustration
 
 ---
 ## outline
@@ -397,8 +400,6 @@ You have heard of **Job’s** perseverance <br>
 and have seen what the **Lord** <br>
 finally brought about.
 
-The Lord is full of **compassion** and **mercy**.
-
 [James 5:11 (NIV)](# "ref")
 
 >>>
@@ -419,8 +420,17 @@ may the name of the Lord be **praised**.”
 [Job 1:20-21 (NIV)](# "ref")
 
 ---
+<!-- .slide: <%= bg("-lYk9rDI2UU-autumn_forest_beams.jpg") %> -->
+The Lord is full of **compassion** and **mercy**.
+
+[James 5:11 (NIV)](# "ref")
+
+>>>
+final vindication of Job
+
+---
 <!-- .slide: data-background="white" -->
-# Q2
+# Do I **trust** in God's **compassion** enough to **wait** for His salvation?
 
 ---
 <!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
