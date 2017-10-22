@@ -138,6 +138,7 @@ because of the **misery** that is coming on you.
 + not the **only** time James addresses **rich**:
 
 ---
+<!-- .slide: <%= bg("unsplash-_jN5_9zu8DM-sunflower.jpg") %> -->
 ## The Disadvantage of Wealth
 The **rich** should take pride in their **humiliation**, <br>
 since they will pass away like a **wild flower**. [(1:10)](# "ref")
@@ -153,6 +154,7 @@ Is it not the **rich** who are **exploiting** you? [(2:6)](# "ref")
 + attachment to riches &rArr; **oppression** of others
 
 ---
+<!-- .slide: <%= bg("negativespace-money.jpg") %> -->
 Your wealth has **rotted**, <br>
 and **moths** have eaten your clothes.
 
@@ -168,6 +170,7 @@ You have **hoarded** wealth in the **last days**.
 + feel **smart**: e.g. Save $200 in car: CV boot
 
 ---
+<!-- .slide: <%= bg("unsplash-lQ1uirYz8qI-smoke_flame.jpg") %> -->
 Your gold and silver are **corroded**. <br>
 Their corrosion will **testify** against you <br>
 and **eat** your flesh like fire.
@@ -206,6 +209,7 @@ lest it should find its way into my **heart**.<br>
 ## outline
 
 ---
+<!-- .slide: <%= bg("negativespace-money.jpg") %> -->
 Look! The **wages** you failed to pay <br>
 the **workers** who mowed your fields <br>
 are **crying out** against you.
@@ -217,6 +221,7 @@ are **crying out** against you.
   + was **held back** (strength) by you
 
 ---
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 “You have **plenty** of grain <br>
 laid up for many **years**. <br>
 Take life **easy**; eat, drink and be **merry**.”
@@ -235,6 +240,7 @@ what you have prepared for yourself?”
 + **purpose** of saving money?
 
 ---
+<!-- .slide: <%= bg("unsplash-qVb-K2mFtDU-wheat.jpg") %> -->
 The **cries** of the harvesters have reached <br>
 the ears of the **Lord Almighty**.
 
@@ -249,6 +255,7 @@ the ears of the **Lord Almighty**.
 ## outline
 
 ---
+<!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
 [5](# "ref")
 You have lived on earth <br>
 in **luxury** and **self-indulgence**. <br>
@@ -277,6 +284,7 @@ who was not opposing you.
 ## outline
 
 ---
+<!-- .slide: <%= bg("unsplash-HNx4QLRgy2k-rain_plant.jpg") %> -->
 See how the **farmer** waits for the land <br>
 to yield its valuable crop, <br>
 patiently **waiting** <br>
@@ -301,6 +309,7 @@ because the Lord’s coming is near.
 ## outline
 
 ---
+<!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
 Don’t **grumble** against one another, <br>
 brothers and sisters, or you will be judged.
 
@@ -316,6 +325,7 @@ or **judges** them speaks against the **law** and judges it.
 [James 4:11 (NIV)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
 Don’t *grumble* against one another, <br>
 brothers and sisters, or you will be **judged**.
 
@@ -327,6 +337,7 @@ The Judge is standing at the **door**!
 ## outline
 
 ---
+<!-- .slide: <%= bg("Riviere-Daniels_Answer_to_the_King.jpg") %> -->
 Brothers and sisters, as an example <br>
 of **patience** in the face of **suffering**, <br>
 take the **prophets** who spoke <br>
@@ -340,6 +351,7 @@ in the name of the Lord.
 + Hab 1:2 how long
 
 ---
+<!-- .slide: <%= bg("wm-Jonah_Preaches_to_the_Ninevites.jpg") %> -->
 **How long**, Lord, must I call for **help**, <br>
 but you do not **listen**?
 
@@ -349,6 +361,7 @@ but you do not **save**?
 [Habakkuk 1:2 (NIV)](# "ref")
 
 ---
+<!-- .slide: <%= bg("Repin_Job_and_His_Friends.jpg") %> -->
 You have heard of **Job’s** perseverance <br>
 and have seen what the **Lord** <br>
 finally brought about.
@@ -361,6 +374,7 @@ The Lord is full of **compassion** and **mercy**.
 + persevere
 
 ---
+<!-- .slide: <%= bg("Dore_Job_Speaks_with_His_Friends.jpg") %> -->
 At this, Job got up and <br>
 **tore** his robe and **shaved** his head. <br>
 Then he fell to the ground in **worship** and said:
