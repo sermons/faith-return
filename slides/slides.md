@@ -206,6 +206,10 @@ lest it should find its way into my **heart**.<br>
   + but not to be **hoarded** for ourselves
 
 ---
+<!-- .slide: data-background="white" -->
+# Have I **trusted** in wealth as my **safety net**?
+
+---
 ## outline
 
 ---
@@ -252,33 +256,42 @@ the ears of the **Lord Almighty**.
   + judgment **coming**
 
 ---
+<!-- .slide: data-background="white" -->
+# What is the **purpose** of **saving** money?
+
+---
 ## outline
 
 ---
 <!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
-[5](# "ref")
 You have lived on earth <br>
-in **luxury** and **self-indulgence**. <br>
+in **luxury** and **self-indulgence**.
+
 You have **fattened** yourselves <br>
 in the day of slaughter.
 
-[6](# "ref")
-You have **condemned** and **murdered** <br>
-the innocent one, <br>
-who was not opposing you.
-
-[James 5:5-6 (NIV)](# "ref")
+[James 5:5 (NIV)](# "ref")
 
 >>>
 + you: luxuriate, indulge, feed
   + condemn (against-righteous), murder
   + fat heart
-+ to preserve std of living
 + **day** of slaughter
 
 ---
+<!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
+You have **condemned** and **murdered** <br>
+the innocent one, <br>
+who was not **opposing** you.
+
+[James 5:6 (NIV)](# "ref")
+
+>>>
++ to preserve std of living
+
+---
 <!-- .slide: data-background="white" -->
-# Q1
+# Whom have I **harmed** to preserve my **standard** of living?
 
 ---
 ## outline
@@ -286,15 +299,12 @@ who was not opposing you.
 ---
 <!-- .slide: <%= bg("unsplash-HNx4QLRgy2k-rain_plant.jpg") %> -->
 See how the **farmer** waits for the land <br>
-to yield its valuable crop, <br>
+to yield its valuable crop,
+
 patiently **waiting** <br>
 for the autumn and spring **rains**.
 
-[8](# "ref")
-You too, be **patient** and **stand firm**, <br>
-because the Lord’s coming is near.
-
-[James 5:7-8 (NIV)](# "ref")
+[James 5:7 (NIV)](# "ref")
 
 >>>
 + autumn (early) rain: for growth
@@ -302,8 +312,20 @@ because the Lord’s coming is near.
 + active waiting: work hard,
   + relying on God's providence
   + trusting (assuming) his promises
+
+---
+<!-- .slide: <%= bg("unsplash-HNx4QLRgy2k-rain_plant.jpg") %> -->
+You too, be **patient** and **stand firm**, <br>
+because the Lord’s coming is near.
+
+[James 5:8 (NIV)](# "ref")
+
+>>>
 + stand firm: strengthen hearts
-  + Eph6?
+
+---
+<!-- .slide: data-background="white" -->
+# What **work** has God given me in **preparation** for His return?
 
 ---
 ## outline
@@ -314,6 +336,11 @@ Don’t **grumble** against one another, <br>
 brothers and sisters, or you will be judged.
 
 [James 5:9 (NIV)](# "ref")
+
+>>>
++ grumble: sigh, groan, narrow/constricted
+  + pos (longing) or neg (frustration)
+  + internal, unexpressed deep emotion
 
 ---
 <!-- .slide: <%= bg("stocksnap-CB8PFQR6E9-finger.jpg") %> -->
@@ -332,6 +359,10 @@ brothers and sisters, or you will be **judged**.
 The Judge is standing at the **door**!
 
 [James 5:9 (NIV)](# "ref")
+
+---
+<!-- .slide: data-background="white" -->
+# Have I **grumbled** against the family of God?
 
 ---
 ## outline
@@ -393,17 +424,17 @@ may the name of the Lord be **praised**.”
 
 ---
 <!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
-Be patient, then, brothers and sisters, <br>
-until the Lord’s coming.
+Be **patient**, then, brothers and sisters, <br>
+until the Lord’s **coming**.
 
-See how the farmer waits for the land <br>
-to yield its valuable crop, <br>
+See how the **farmer** waits for the land <br>
+to yield its valuable **crop**, <br>
 patiently waiting <br>
-for the autumn and spring rains.
+for the autumn and spring **rains**.
 
 [8](# "ref")
-You too, be patient and stand firm, <br>
-because the Lord’s coming is near.
+You too, be **patient** and stand **firm**, <br>
+because the Lord’s coming is **near**.
 
 [James 5:7-8 (NIV)](# "ref")
 
