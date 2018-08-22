@@ -466,7 +466,7 @@ may the name of the Lord be **praised**.”
 [Job 1:20-21 (NIV)](# "ref")
 
 ---
-<!-- .slide: <%= bg("-lYk9rDI2UU-autumn_forest_beams.jpg") %> -->
+<!-- .slide: <%= bg("unsplash--lYk9rDI2UU-autumn_forest_beams.jpg") %> -->
 The Lord is full of **compassion** and **mercy**.
 
 [James 5:11 (NIV)](# "ref")
