@@ -121,6 +121,7 @@ The Lord is full of compassion and mercy.
   1. Example of the **Prophets** [(v10-11)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-JdY-P44WBpY-stormclouds.jpg") %> -->
 Now listen, you **rich people**, weep and wail <br>
 because of the **misery** that is coming on you.
 
