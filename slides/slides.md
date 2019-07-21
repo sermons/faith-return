@@ -11,15 +11,14 @@
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
 ## [James:](# "ref") Keep the **Faith**
-+ [(1a):](# "ref") Stands the **Test**
-  + [(1b):](# "ref") Demands a **Change** of Heart
-+ [(2a):](# "ref") Loves **Impartially**
-  + [(2b):](# "ref") **Acts**
-+ [(3a):](# "ref") Tames the **Tongue**
-  + [(3b):](# "ref") Demonstrates **Wisdom**
-+ [(4a):](# "ref") **Mourns** Sin
-  + [(4b):](# "ref") Is **Humble**
-+ [(5a):](# "ref") Looks to Christ's **Return**
+
+|   |   |   |
+|---|---|---|
+| [1:](# "ref") | Stands the **Test** | **Change** of Heart |
+| [2:](# "ref") | Loves **Impartially** | **Acts** |
+| [3:](# "ref") | Tames the **Tongue** | Shows **Wisdom** |
+| [4:](# "ref") | **Mourns** Sin | Is **Humble** |
+| [5:](# "ref") | Looks to Christ's **Return** | |
 
 ---
 [1](# "ref")
