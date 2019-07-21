@@ -6,8 +6,6 @@
 <!-- .slide: data-background="white" -->
 # Am I **ready** for Christ's return?
 
-[###](#/outline "secret")
-
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
 ## [James:](# "ref") Keep the **Faith**
@@ -20,7 +18,7 @@
 | [4:](# "ref") | **Mourns** Sin | Is **Humble** |
 | [5:](# "ref") | Looks to Christ's **Return** | |
 
----
+******
 [1](# "ref")
 Now listen, you rich people, weep and wail <br>
 because of the misery that is coming on you.
@@ -36,7 +34,7 @@ and eat your flesh like fire.
 
 [James 5:1-3 (NIV) (p.1/6)](# "ref")
 
----
+******
 You have hoarded wealth in the last days.
 
 [4](# "ref")
@@ -49,7 +47,7 @@ the ears of the Lord Almighty.
 
 [James 5:3-4 (NIV) (p.2/6)](# "ref")
 
----
+******
 [5](# "ref")
 You have lived on earth <br>
 in luxury and self-indulgence. <br>
@@ -63,7 +61,7 @@ who was not opposing you.
 
 [James 5:5-6 (NIV) (p.3/6)](# "ref")
 
----
+******
 [7](# "ref")
 Be patient, then, brothers and sisters, <br>
 until the Lord’s coming.
@@ -79,7 +77,7 @@ because the Lord’s coming is near.
 
 [James 5:7-8 (NIV) (p.4/6)](# "ref")
 
----
+******
 [9](# "ref")
 Don’t grumble against one another, <br>
 brothers and sisters, or you will be judged.
@@ -94,7 +92,7 @@ in the name of the Lord.
 
 [James 5:9-10 (NIV) (p.5/6)](# "ref")
 
----
+******
 [11](# "ref")
 As you know, we count as blessed <br>
 those who have persevered.
