@@ -205,7 +205,7 @@ lest it should find its way into my **heart**.<br>
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I **trusted** in wealth as my **safety net**?
+# Have I **trusted** <br> in wealth as <br> my **safety net**?
 
 ---
 <!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
@@ -264,7 +264,7 @@ the ears of the **Lord Almighty**.
 
 ---
 <!-- .slide: data-background="white" -->
-# What is the **purpose** of **saving** money?
+# What is <br> the **purpose** of **saving** money?
 
 ---
 <!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
@@ -397,7 +397,7 @@ The Judge is standing at the **door**!
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I **sighed** in **resentment** at a child of God?
+# Have I **sighed** <br> in **resentment** at <br> a child of God?
 
 >>>
 or frustration
