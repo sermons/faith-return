@@ -14,7 +14,7 @@
 
 |   |   |   |
 |---|---|---|
-| [1:](# "ref") | Stands the **Test** | **Change** of Heart |
+| [1:](# "ref") | Stands the **Test** | **Change**&nbsp;of&nbsp;Heart |
 | [2:](# "ref") | Loves **Impartially** | **Acts** |
 | [3:](# "ref") | Tames the **Tongue** | Shows **Wisdom** |
 | [4:](# "ref") | **Mourns** Sin | Is **Humble** |
