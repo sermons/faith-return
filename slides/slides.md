@@ -117,6 +117,15 @@ The Lord is full of compassion and mercy.
   1. No **Grumbling** [(v9)](# "ref")
   1. Example of the **Prophets** [(v10-11)](# "ref")
 
+>>>
++ money **saved** for myself is unreliable
++ money **withheld** from others testifies against me
++ how I **live** affects my heart
++ be **prepared** for Christ's return
++ **sighing** of resentment
++ look to those who came **before**
+
+
 ---
 <!-- .slide: <%= bg("unsplash-JdY-P44WBpY-stormclouds.jpg") %> -->
 Now listen, you **rich people**, weep and wail <br>
@@ -150,6 +159,7 @@ Is it not the **rich** who are **exploiting** you? [(2:6)](# "ref")
 + riches are **fleeting**
 + safety of riches causes us to grow **proud**
 + attachment to riches &rArr; **oppression** of others
++ first: money is not **reliable** as a safety net
 
 ---
 <!-- .slide: <%= bg("negativespace-money.jpg") %> -->
@@ -219,6 +229,10 @@ lest it should find its way into my **heart**.<br>
   1. No Grumbling [(v9)](# "ref")
   1. Example of the Prophets [(v10-11)](# "ref")
 
+>>>
++ financial relationships with **others**
++ e.g., employees, contractors
+
 ---
 <!-- .slide: <%= bg("negativespace-money.jpg") %> -->
 Look! The **wages** you failed to pay <br>
@@ -230,6 +244,11 @@ are **crying out** against you.
 >>>
 + **wages**: not your money anymore
   + was **held back** (strength) by you
++ **power** struggle
+  + believe "who has the $$ has the power"
+  + "customer is always **right**"
++ **parable** of rich man
+  + planned to build **bigger** barns:
 
 ---
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
@@ -249,6 +268,10 @@ what you have prepared for yourself?”
 
 >>>
 + **purpose** of saving money?
++ **safety** for self/family?
+  + **power** / influence?
++ or to **share** / provide for others? 
+  + knowing we have a higher **judge**:
 
 ---
 <!-- .slide: <%= bg("unsplash-qVb-K2mFtDU-wheat.jpg") %> -->
@@ -289,9 +312,8 @@ in the day of slaughter.
 [James 5:5 (NIV)](# "ref")
 
 >>>
-+ you: luxuriate, indulge, feed
-  + condemn (against-righteous), murder
-  + fat heart
++ you: luxuriate, **indulge**, feed
+  + **fat** heart: lazy, lack **resilience**
 + **day** of slaughter
 
 ---
@@ -303,6 +325,7 @@ who was not **opposing** you.
 [James 5:6 (NIV)](# "ref")
 
 >>>
++ condemn (against-righteous), murder
 + to preserve std of living
 
 ---
@@ -375,6 +398,7 @@ brothers and sisters, or you will be judged.
 + grumble: sigh, groan, narrow/constricted
   + pos (longing) or neg (frustration)
   + internal, unexpressed deep emotion
++ JJ: *sigh*, "mom! you know...."
 
 ---
 <!-- .slide: <%= bg("stocksnap-CB8PFQR6E9-finger.jpg") %> -->
