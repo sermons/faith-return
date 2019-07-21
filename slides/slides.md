@@ -448,8 +448,8 @@ in the name of the Lord.
 [James 5:10 (NIV)](# "ref")
 
 >>>
-+ prophets: Is6:11 seeing but not perceiving
-  + Jeremiah?
++ e.g.,, Is6:11 seeing but not **perceiving**
+  + Jeremiah
 + Hab 1:2 how long
 
 ---
@@ -471,7 +471,7 @@ finally brought about.
 [James 5:11 (NIV)](# "ref")
 
 >>>
-+ persevere
++ James highlights **Job**'s example:
 
 ---
 <!-- .slide: <%= bg("Dore_Job_Speaks_with_His_Friends.jpg") %> -->
@@ -486,6 +486,10 @@ The Lord **gave** and the Lord has taken **away**;<br>
 may the name of the Lord be **praised**.”
 
 [Job 1:20-21 (NIV)](# "ref")
+
+>>>
++ **reaction** to tragedy / stress / pathos
++ when God **takes away** blessings
 
 ---
 <!-- .slide: <%= bg("unsplash--lYk9rDI2UU-autumn_forest_beams.jpg") %> -->
